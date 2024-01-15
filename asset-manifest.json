@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/petroil_t/static/css/main.5dc758cb.css",
+    "main.js": "/petroil_t/static/js/main.949c73ce.js",
+    "static/js/787.8cf52469.chunk.js": "/petroil_t/static/js/787.8cf52469.chunk.js",
+    "static/media/unsplash_vEoMKBdUIzs.png": "/petroil_t/static/media/unsplash_vEoMKBdUIzs.2cebfa33f1f995987085.png",
+    "static/media/Maps.png": "/petroil_t/static/media/Maps.01f46457967c48941e08.png",
+    "static/media/bridge.png": "/petroil_t/static/media/bridge.f96642d2dcb866b0617a.png",
+    "static/media/fuel.png": "/petroil_t/static/media/fuel.451376f9a2e6d3be935d.png",
+    "static/media/oil.png": "/petroil_t/static/media/oil.0fc1220fe72b973b8736.png",
+    "static/media/road.png": "/petroil_t/static/media/road.2e14b0477f3cf03f1111.png",
+    "static/media/car.png": "/petroil_t/static/media/car.1150ab12f925ecbfc18e.png",
+    "static/media/ship.png": "/petroil_t/static/media/ship.74259643ab7b95dd58d3.png",
+    "static/media/pump.png": "/petroil_t/static/media/pump.903bc6959e9f93041019.png",
+    "static/media/plan.png": "/petroil_t/static/media/plan.5a69713a2416e5e9cbf2.png",
+    "static/media/pipe.png": "/petroil_t/static/media/pipe.06b498a95ca92c444a1a.png",
+    "static/media/rope.png": "/petroil_t/static/media/rope.9720273a04218d70768a.png",
+    "static/media/worker.png": "/petroil_t/static/media/worker.5f5b8f1801f0f9bb5d31.png",
+    "static/media/Logo2.png": "/petroil_t/static/media/Logo2.c599eea0fa0308c3f022.png",
+    "index.html": "/petroil_t/index.html",
+    "main.5dc758cb.css.map": "/petroil_t/static/css/main.5dc758cb.css.map",
+    "main.949c73ce.js.map": "/petroil_t/static/js/main.949c73ce.js.map",
+    "787.8cf52469.chunk.js.map": "/petroil_t/static/js/787.8cf52469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc758cb.css",
+    "static/js/main.949c73ce.js"
+  ]
+}
