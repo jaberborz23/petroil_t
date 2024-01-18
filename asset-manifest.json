@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/petroil_t/static/css/main.5dc758cb.css",
-    "main.js": "/petroil_t/static/js/main.949c73ce.js",
+    "main.css": "/petroil_t/static/css/main.207a215d.css",
+    "main.js": "/petroil_t/static/js/main.49cdf7c2.js",
     "static/js/787.8cf52469.chunk.js": "/petroil_t/static/js/787.8cf52469.chunk.js",
     "static/media/unsplash_vEoMKBdUIzs.png": "/petroil_t/static/media/unsplash_vEoMKBdUIzs.2cebfa33f1f995987085.png",
     "static/media/Maps.png": "/petroil_t/static/media/Maps.01f46457967c48941e08.png",
@@ -18,12 +18,12 @@
     "static/media/worker.png": "/petroil_t/static/media/worker.5f5b8f1801f0f9bb5d31.png",
     "static/media/Logo2.png": "/petroil_t/static/media/Logo2.c599eea0fa0308c3f022.png",
     "index.html": "/petroil_t/index.html",
-    "main.5dc758cb.css.map": "/petroil_t/static/css/main.5dc758cb.css.map",
-    "main.949c73ce.js.map": "/petroil_t/static/js/main.949c73ce.js.map",
+    "main.207a215d.css.map": "/petroil_t/static/css/main.207a215d.css.map",
+    "main.49cdf7c2.js.map": "/petroil_t/static/js/main.49cdf7c2.js.map",
     "787.8cf52469.chunk.js.map": "/petroil_t/static/js/787.8cf52469.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dc758cb.css",
-    "static/js/main.949c73ce.js"
+    "static/css/main.207a215d.css",
+    "static/js/main.49cdf7c2.js"
   ]
 }
