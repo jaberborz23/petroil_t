@@ -8,7 +8,7 @@ const Ft_copy = () => {
 
             <div className=" w-full ">
             <h6 className='font-pops leading-[24px] w-auto text-gra font-medium  text-[13px] lg:text-[16px]'>© Copyright 2022 by AltDesain Studio – All right reserved.</h6>
-
+          
             
             </div>
            <div className="w-full mt-[60px] mx-auto ">

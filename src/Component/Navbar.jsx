@@ -25,13 +25,13 @@ const Navbar = () => {
       
       
       >
-      <ul className={` lg:flex items-center   gap-x-5 absolute left-0 top-0 lg:static ${show == true ? "top-[170px] sm:top-[180px] xxs:top-[130px] md:top-[150px] left-0 w-full bg-[#222] transition duration-300 ease-in-out py-4 text-center z-[100]" : "top-[-370px] w-full left-0 transition duration-300 ease-in-out "}  ` } >
-        <li className='lg:py-0 py-2'> <a href="#banner" className='font-pops text-white font-semibold text-[16px] hover:text-[#222]' >Home</a></li>
-        <li className='lg:py-0 py-2'><a href="#service" className='font-pops text-white hover:text-[#222] font-semibold text-[16px]' >About</a></li>
-        <li className='lg:py-0 py-2'><a href='#car' className='font-pops text-white hover:text-[#222]  font-semibold text-[16px]' >Service</a></li>
-        <li className='lg:py-0 py-2'><a href='#company' className='font-pops text-white hover:text-[#222] font-semibold text-[16px]' >Gallery</a></li>
-        <li className='lg:py-0 py-2'><a href='#lorem' className='font-pops text-white hover:text-[#222] font-semibold text-[16px]' >Blog</a></li>
-        <li className='lg:py-0  py-4'><a href="#map" className='font-pops text-white hover:text-[#222] font-semibold text-[16px] border-2 border-white-600 px-3 py-3 hover:bg-[green]' >Contact</a></li>
+      <ul className={` lg:flex sm:flex xs:flex xs:justify-evenly sm:justify-evenly items-center    gap-x-5 absolute left-0 top-0 lg:static ${show == true ? "top-[50px] sm:top-[80px] xxs:top-[70px] md:top-[80px] left-0 w-full bg-[#222]  transition duration-300 ease-in-out py-4 text-center z-[100]" : "top-[-370px] w-full left-0 transition duration-300 ease-in-out "}  ` } >
+        <li className='lg:py-0 py-2'> <a href="#banner" className='font-pops text-white font-semibold text-[16px] lg:hover:text-[#222] hover:text-[green]' >Home</a></li>
+        <li className='lg:py-0 py-2'><a href="#service" className='font-pops text-white lg:hover:text-[#222] font-semibold text-[16px] hover:text-[green]' >About</a></li>
+        <li className='lg:py-0 py-2'><a href='#car' className='font-pops text-white lg:hover:text-[#222]  font-semibold text-[16px] hover:text-[green]' >Service</a></li>
+        <li className='lg:py-0 py-2'><a href='#company' className='font-pops text-white lg:hover:text-[#222] font-semibold text-[16px] hover:text-[green]' >Gallery</a></li>
+        <li className='lg:py-0 py-2'><a href='#lorem' className='font-pops text-white lg:hover:text-[#222] font-semibold text-[16px] hover:text-[green]' >Blog</a></li>
+        <li className='lg:py-0  py-4'><a href="#map" className='font-pops text-white lg:hover:text-[#222] font-semibold text-[16px] hover:text-[black] border-2 border-white-600 px-3 py-3 hover:bg-[green]' >Contact</a></li>
        </ul>
        </ScrollspyNav>
       </div>
